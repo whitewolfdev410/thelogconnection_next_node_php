@@ -1,0 +1,36 @@
+Description,material,rate,unit
+Metal roofing,roof_metal,2.93,SF
+Asphalt Shingle,shingle_asphalt,0.76,SF
+Cedar Shingle,shingle_cedar,3.45,SF
+Felt Paper,felt_paper,0.06,SF
+1x6 T&G Pine,tg_pine_1x6,0.72,LF
+P.T. 2x8 Joists,joist_pt_2x8,1.62,LF
+P.T. 2x10 Joists,joist_pt_2x10,2.02,LF
+P.T. 2x12 Joists,joist_pt_2x12,2.46,LF
+"9 1/2"" I-Joist",i_joist_9_5_in,3.13,LF
+"11 7/8"" I-Joist",i_joist_12_in,3.5,LF
+2x4 Studs,stud_2x4,0.47,LF
+2x6 Studs,stud_2x6,0.74,LF
+P.T. 1x5 decking,decking_pt_1x5,0.83,LF
+"3/4"" T&G Fir Ply ",plywd_fir_3_4_in,1.27,SF
+"1/2"" Sheathing",sheathing_1_2_in,0.83,SF
+"1/2"" OSB (7/16"")",osb_1_2_in,0.67,SF
+"3/8"" OSB",osb_3_8_in,0.64,SF
+Vapour Barrier,vapor_barrier,0.05,SF
+R-35 x 24 Batt,R35_24_in,1.38,SF
+6x6 PT Posts,post_pt_6x6,4.53,LF
+Log Siding,log_siding,7.5,LF
+2x8 Joists,joist_2x8,1.06,LF
+2x10 Joists,joist_2x10,1.61,LF
+2x12 Joists,joist_2x12,2.58,LF
+2x2 Bridging,bridging_2x2,0.26,LF
+1x4 Pine (Strapping),strapping_1x6,0.22,LF
+1x6 Pine (Fascia),fascia_pine_1x6,0.84,LF
+1x8 Pine (Fascia),fascia_pine_1x8,1.13,LF
+Dollar amounts,dollars,1,dollars
+Canadian dollar,dollar_Cdn,1.3,dollars
+Log Stair Tread,log_stair_tread,220,each
+Log Stair Landing,log_stair_landing,300,each
+Railing,log_railing,85,LF
+Newel,log_newel,45,each
+Landing Post,landing_post,100,each

@@ -1,0 +1,19 @@
+.carousel-indicators {
+    margin-bottom: 30px;
+}
+
+.carousel-indicators button {
+    border: none;
+    padding: 6px;
+    margin-right: 10px;
+    outline: none;
+    border-radius: 100%;
+}
+
+.carousel-indicators button.active {
+    background-color: yellow;
+}
+
+.carousel-item video, .carousel-item iframe {
+    display: table-cell;
+}

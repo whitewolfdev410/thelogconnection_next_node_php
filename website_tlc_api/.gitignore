@@ -1,0 +1,10 @@
+.DS_Store
+composer.phar
+/.vscode/
+/node_modules/
+
+legacy/_lib
+legacy/_pricequote
+legacy/functions.php
+test
+*.zip

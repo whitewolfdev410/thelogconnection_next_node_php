@@ -1,0 +1,73 @@
+State_Province,name,dealer,codename,altname,real
+AL,Alabama,,Alabama,Alabama,x
+AKN,Alaska (North),,Alaska_North,Northern Alaska,x
+AKS,Alaska (South),,Alaska_South,Southern Alaska,x
+AZ,Arizona,,Arizona,Arizona,x
+AR,Arkansas,,Arkansas,Arkansas,x
+CA,California,,California,California,x
+CO,Colorado,,Colorado,Colorado,x
+CT,Connecticut,,Connecticut,Connecticut,x
+DE,Delaware,,Delaware,Delaware,x
+DC,District Of Columbia,,District_Of_Columbia,District Of Columbia,x
+FL,Florida,Bob_Barnhart,Florida,Florida,x
+GA,Georgia,,Georgia,Georgia,x
+GU,Guam,,Guam,Guam,x
+HI,Hawaii,,Hawaii,Hawaii,x
+ID,Idaho,,Idaho,Idaho,x
+IL,Illinois,,Illinois,Illinois,x
+IN,Indiana,,Indiana,Indiana,x
+IA,Iowa,,Iowa,Iowa,x
+KS,Kansas,,Kansas,Kansas,x
+KY,Kentucky,,Kentucky,Kentucky,x
+LA,Louisiana,,Louisiana,Louisiana,x
+ME,Maine,,Maine,Maine,x
+MD,Maryland,,Maryland,Maryland,x
+MA,Massachusetts,,Massachusetts,Massachusetts,x
+MI,Michigan,,Michigan,Michigan,x
+MN,Minnesota,,Minnesota,Minnesota,x
+MS,Mississippi,,Mississippi,Mississippi,x
+MO,Missouri,,Missouri,Missouri,x
+MT,Montana,,Montana,Montana,x
+NE,Nebraska,,Nebraska,Nebraska,x
+NV,Nevada,,Nevada,Nevada,x
+NH,New Hampshire,,New_Hampshire,New Hampshire,x
+NJ,New Jersey,,New_Jersey,New Jersey,x
+NM,New Mexico,,New_Mexico,New Mexico,x
+NY,New York,,New_York,New York,x
+NC,North Carolina,,North_Carolina,North Carolina,x
+ND,North Dakota,,North_Dakota,North Dakota,x
+OH,Ohio,,Ohio,Ohio,x
+OK,Oklahoma,,Oklahoma,Oklahoma,x
+OR,Oregon,,Oregon,Oregon,x
+PA,Pennsylvania,,Pennsylvania,Pennsylvania,x
+PR,Puerto Rico,,Puerto_Rico,Puerto Rico,x
+RI,Rhode Island,,Rhode_Island,Rhode Island,x
+SC,South Carolina,,South_Carolina,South Carolina,x
+SD,South Dakota,,South_Dakota,South Dakota,x
+TN,Tennessee,,Tennessee,Tennessee,x
+TX,Texas,,Texas,Texas,x
+UT,Utah,,Utah,Utah,x
+VT,Vermont,,Vermont,Vermont,x
+VI,Virgin Islands,,Virgin_Islands,Virgin Islands,x
+VA,Virginia,,Virginia,Virginia,x
+WA,Washington,,Washington,Washington,x
+WV,West Virginia,,West_Virginia,West Virginia,x
+WI,Wisconsin,,Wisconsin,Wisconsin,x
+WY,Wyoming,,Wyoming,Wyoming,x
+AA,AA (US Armed Forces Americas),,AA_US_Armed_Forces_Americas,AA (US Armed Forces Americas),
+AE,AE (US Armed Forces Europe etc),,AE_US_Armed_Forces_Europe,AE (US Armed Forces Europe etc),
+AP,AP (US Armed Forces Pacific),,AP_US_Armed_Forces_Pacific,AP (US Armed Forces Pacific),
+AB,Alberta,,Alberta,Alberta,x
+BC,British Columbia,,British_Columbia,British Columbia,x
+MB,Manitoba,,Manitoba,Manitoba,x
+NB,New Brunswick,,New_Brunswick,New Brunswick,x
+NL,Newfoundland - Labrador,,Newfoundland_Labrador,Newfoundland & Labrador,x
+NU,Nunavut,,Nunavut,Nunavut,x
+NWT,Northwest Territories,,Northwest_Territories,Northwest Territories,x
+NS,Nova Scotia,,Nova_Scotia,Nova Scotia,x
+ON,Ontario,,Ontario,Ontario,x
+PEI,Prince Edward Island,,Prince_Edward_Island,Prince Edward Island,x
+PQ,Quebec,,Quebec,Quebec,x
+SK,Saskatchewan,,Saskatchewan,Saskatchewan,x
+YK,Yukon Territories,,Yukon_Territories,Yukon Territories,x
+Other,Other,,Other_Country,Other Country,

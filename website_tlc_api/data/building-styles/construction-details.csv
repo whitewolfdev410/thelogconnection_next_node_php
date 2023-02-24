@@ -1,0 +1,37 @@
+fileName,fileExtension,title,caption,PB,Stacked,Timber
+beam-splice,gif,Beam Splice,Beam Splice,x,x,
+bottom-round-anchoring,gif,Bottom Round Anchoring,Bottom Round Anchoring,,x,
+bu-pier,gif,Built-up Pier,Built-up Pier,,x,
+deck-ledger-attachment,gif,Deck Ledger Attachment,Deck Ledger Attachment,x,x,
+floor-ledger,gif,Floor Ledger,Floor Ledger,x,x,
+foundation-wall-footing,gif,Foundation Wall Footing,Foundation Wall Footing,x,x,
+knee-bracing,gif,Knee Bracing,Knee Bracing,x,x,
+log-purlin,gif,Log Purlin,Log Purlin,x,x,
+log-ridge-beam,gif,Log Ridge Beam,Log Ridge Beam,x,x,
+log-wall-electrical,gif,Log Wall Electrical,Log Wall Electrical,,x,
+log-wall-splice,gif,Log Wall Splice,Log Wall Splice,,x,
+pier-post,gif,Pier and Post,Pier and Post,x,x,
+positive-hold-screw-jack,gif,Positive Hold Screw Jack,Positive Hold Screw Jack,,x,
+post-beam-tenon,gif,Post and Beam Tenon,Post and Beam Tenon,x,x,
+post-settling-2,gif,Post Settling,Post Settling,,x,
+post-settling,gif,Post Settling,Post Settling,,x,
+roof-floor,gif,Roof and Floor,Roof and Floor,x,x,
+roof-joist-pitch-cut-2,gif,Roof Joist Pitch Cut,Roof Joist Pitch Cut,x,x,
+roof-joist-pitch-cut-3,gif,Roof Joist Pitch Cut,Roof Joist Pitch Cut,,x,
+roof-joist-pitch-cut,gif,Roof Joist Pitch Cut,Roof Joist Pitch Cut,x,x,
+screw-jack,gif,Screw Jack,Screw Jack,,x,
+secure-post,gif,Secure Post,Secure Post,,x,
+stair-stringer-attachment,gif,Stair Stringer Attachment,Stair Stringer Attachment,x,x,
+stair-stringer,gif,Stair Stringer,Stair Stringer,x,x,
+through-bolt,gif,Through Bolt,Through Bolt,,x,
+waste-vent,gif,Waste Vent Settling,Waste Vent Settling,,x,
+wall-connection,gif,Wall Connection,Wall Connection,,x,
+wall-settling,gif,Wall Settling,Wall Settling,,x,
+wall-settling-2,gif,Wall Settling,Wall Settling,,x,
+water-supply,gif,Water Supply,Water Supply,,x,
+window-opening,gif,Window Opening,Window Opening,,x,
+Timber-basic-joint3,gif,Mortise and Tenon Joint,Simple Mortise and Tenon Joint,,,x
+Timber-beveled-shoulder2,gif,Bevelled Mortise & Tenon,Mortise & tenon Joint with Bevelled Shoulder,,,x
+Timber-brace2,gif,Post/girt connection,Main post/connecting girt connection,,,x
+Timber-scarf2,gif,Splay stopped scarf,Splay stopped scarf with bridled butts,,,x
+Timber-squared-shoulder2,gif,Squared Mortise & Tenon,Mortise & tenon Joint with Squared Shoulder,,,x

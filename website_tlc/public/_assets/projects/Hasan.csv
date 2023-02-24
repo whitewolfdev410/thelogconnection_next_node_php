@@ -1,0 +1,24 @@
+title,fileName,extension,text
+#project,Hasan,,Hasan Residence
+#elevations,,,Elevations
+,Hasan-elevation,gif,
+#plans,,,Floor Plans
+,Hasan-f0,gif,Lower Floor Plan
+,Hasan-f1,gif,Main Floor Plan
+,Hasan-f2,gif,Upper Floor Plan
+#photos,,,"Delivery, progress and constrcution photos "
+,Hasan-01,jpg,Exterior b&w rendering
+,Hasan-02,jpg,Exterior b&w rendering
+,Hasan-03,jpg,Exterior b&w rendering
+,Hasan-04,jpg,Exterior b&w rendering
+,Hasan-05,jpg,Exterior b&w rendering
+,Hasan-06,jpg,Exterior b&w rendering
+,Hasan-07,jpg,Interior b&w rendering from kitchen
+,Hasan-08,jpg,Interior b&w rendering of master bedroom
+,Hasan-09,jpg,Interior b&w rendering of master ensuite
+,Hasan-10,jpg,Interior b&w rendering of upper floor guest bedroom
+,Hasan-11,jpg,Interior b&w rendering of upper loft area
+,Hasan-12,jpg,Interior b&w rendering of upper loft area
+#Photos,,,Visual Log Package
+,1,gif,Isometric view of the log package.
+,2,gif,Isometric view of the log package.

@@ -1,0 +1,72 @@
+-- phpMyAdmin SQL Dump
+-- version 5.1.0
+-- https://www.phpmyadmin.net/
+--
+-- Host: localhost:8889
+-- Generation Time: Nov 28, 2022 at 08:13 AM
+-- Server version: 5.7.34
+-- PHP Version: 7.4.21
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `thelogco_2021`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `contact_us`
+--
+
+CREATE TABLE `contact_us` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `first_name` varchar(255) DEFAULT NULL,
+  `last_name` varchar(255) DEFAULT NULL,
+  `email` varchar(255) DEFAULT NULL,
+  `phone` varchar(255) DEFAULT NULL,
+  `best_time_to_call` varchar(255) DEFAULT NULL,
+  `message` text
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `contact_us`
+--
+ALTER TABLE `contact_us`
+  ADD PRIMARY KEY (`id`);
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+adf
+INSERT INTO contact_us (`first_name`, `last_name`, `email`, `phone`, `best_time_to_call`, `message`) VALUES ('', '', '', '', '', '')
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td></td></tr></table></body></html>
+adf
+INSERT INTO contact_us (`first_name`, `last_name`, `email`, `phone`, `best_time_to_call`, `message`) VALUES ('jkahfjk', 'hakjdhfakj', 'kjahfjkafhs@gmail.com', 'jkafh', '04:00 AM', 'messsage')
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>jkahfjk</td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>hakjdhfakj</td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>kjahfjkafhs@gmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>jkafh</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>04:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>messsage</td></tr></table></body></html>
+adf
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>jkahdfjka</td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>kjahfkj</td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>kajshfkajfh@gmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>kajdhfkajhf</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>01:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>message</td></tr></table></body></html>
+adf
+adf
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>ljkasf</td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>kjahf</td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>kjashfkajlfh@gmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>kjadhfajf</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>04:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>kjadflhaf</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>adf</td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>asfd</td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>sarojkalamagar@gmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>898989</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>02:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>test message</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>first name </td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>lastname </td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>8989899890</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>test message from test</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>testemail@yopmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>23408234</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>03:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>test message</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>testemail@yopmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>23408234</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>03:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>test message</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>testemail@yopmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>23408234</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>03:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>test message</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>sarojkalamagar@gmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>1231313</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>03:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>test message</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td></td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>ea@yopmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>23424</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>03:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>adf</td></tr></table></body></html>
+<html><body><table rules="all" style="border-color: #666;" cellpadding="10"><tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>fn</td></tr><tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>ln</td></tr><tr style='background: #eee;'><td><strong>Email:</strong> </td><td>ea@gmail.com</td></tr><tr style='background: #eee;'><td><strong>Phone:</strong> </td><td>987897897</td></tr><tr style='background: #eee;'><td><strong>Best Call Time:</strong> </td><td>03:00 AM</td></tr><tr style='background: #eee;'><td><strong>Message:</strong> </td><td>adf</td></tr></table></body></html>
